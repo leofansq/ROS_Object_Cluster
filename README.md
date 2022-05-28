@@ -90,3 +90,10 @@
   label: 0
   ---
   ```
+
+## Related projects in pure ROS (Melodic) 
+
+* [ROS_NDT_Mapping](https://github.com/leofansq/ROS_NDT_Mapping)
+* [ROS_NDT_Localizer](https://github.com/leofansq/ROS_NDT_Localizer)
+* [ROS_Waypoints_Processor](https://github.com/leofansq/ROS_Waypoints_Processor)
+* [ROS_Pure_Pursuit](https://github.com/leofansq/ROS_Pure_Pursuit)
